@@ -17,7 +17,7 @@
 - Explore differences in layout, typography, color schemes, icons, and animations 🎨.
 
 ## Technologies Used
-- Flutter: A powerful cross-platform framework that seamlessly integrates both Material Design and Human Interface Design elements.
+- Flutter: A powerful cross-platform framework with MVC and Provider architecture that seamlessly integrates Material Design and Human Interface Design elements.
 - Dart: The programming language used in Flutter development.
 
 <h1 align="left"> </h1>
